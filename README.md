@@ -24,7 +24,7 @@
 
 ## :coffee: Java
 
-[java基础](https://github.com/GrowTowardsSunlight/For-the-interview/blob/master/java/java基础.md)
+[java基础](https://github.com/GrowTowardsSunlight/For-the-interview/blob/master/java/readme.md)
 
 ## :cat: 框架
 
