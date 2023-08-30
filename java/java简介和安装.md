@@ -64,13 +64,14 @@ Flash取代，Flash即将被HTML5取代。
 
 2.进入高级系统设置——>高级——>环境变量
 
-3.在系统变量中新建变量JAVA_HOME，变量值为jdk所在路径。([注](https://www.sxt.cn/Java_jQuery_in_action/environment_variable_configuration.html "C:\Program Files\Java\jdk1.8.0_191"))
+3.在系统变量中新建变量JAVA_HOME，变量值为jdk所在路径。([注](https://www.sxt.cn/Java_jQuery_in_action/environment_variable_configuration.html))
+例如："C:\Program Files\Java\jdk1.8.0_191"
 
 4.在系统变量的Path变量中新建一个值%JAVA_HOME%\bin。
 
 tips
 
-运行java或者javac都需要找到bin目录。不设置JAVA_HOME而直接在Path变量中新建bin所在路径，java和javac也能够运行。但是一些服务器和软件会主动找JAVA_HOME变量，所以我们必须要设置它。
+运行java或者javac都需要找到bin目录。不设置JAVA_HOME而直接在Path变量中新建bin所在路径，java和javac也能够运行。但是一些服务器和软件会主动找JAVA_HOME变量，所以我们必须要设置它。若安装目录下没有javac命令说明安装的是jre，jre只包含了运行环境。
 
 如果使用JDK1.5以上就不需要配置classpath环境变量(类路径)。JRE会自动搜索当前路径下的类文件及相关jar文件。
 
