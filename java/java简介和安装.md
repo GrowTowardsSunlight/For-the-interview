@@ -31,7 +31,7 @@ Flash取代，Flash即将被HTML5取代。
   JavaME(Java Micro Edition)：微型版，定位在消费性电子产品的应用上。JavaME包含JavaSE的一部分核心类，也有自己的扩展类。该版本针对资源有
 限的电子消费产品的需求精简核心类库，并提供了模块化的架构让不同类型产品能够随时增加支持的能力。
 
-![Image text](https://github.com/GrowTowardsSunlight/java/blob/master/java三百集/img/javaedition.jpg)
+![Image text](img/javaedition.jpg)
 
 
 ### Java应用程序的运行机制
@@ -40,7 +40,7 @@ Flash取代，Flash即将被HTML5取代。
 
   java程序没有直接与操作系统挂钩，jvm和底层操作系统进行交互。
 
-![Image text](https://github.com/GrowTowardsSunlight/java/blob/master/java三百集/img/java运行机制.png)
+![Image text](img/java运行机制.png)
 
 ### JVMJRE和JDK
 
