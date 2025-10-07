@@ -53,7 +53,7 @@ Flash取代，Flash即将被HTML5取代。
    tips:如果只是要运行Java程序，只需要JRE就可以。JRE通常非常小，其中包含了JVM。如果要开发Java程序，就需要安装JDK。
 
 
-![Image text](https://github.com/GrowTowardsSunlight/java/blob/master/java三百集/img/jvmjrejdk.png)
+![Image text](img/jvmjrejdk.png)
 
 ### java下载安装和环境配置
 [下载](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
